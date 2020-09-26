@@ -23,7 +23,8 @@ int search(vector<int> v, int target)
   return -1;
 }
 
-int findUpperBound(vector<int> v, int target)
+// returns index of the first value that is greater than or euqal to target
+int findLowerBound(vector<int> v, int target)
 {
   int L = 0, R = v.size() - 1;
   int ans = -1;
@@ -45,7 +46,8 @@ int findUpperBound(vector<int> v, int target)
   return ans;
 }
 
-int findLowerBound(vector<int> v, int target)
+// returns the index of greatest value not exceeding target
+int findUpperBound(vector<int> v, int target)
 {
   int L = 0, R = v.size() - 1;
   int ans = -1;
@@ -70,6 +72,6 @@ int findLowerBound(vector<int> v, int target)
 int main()
 {
   vector<int> vec{2, 3, 5, 6, 8, 10, 12};
-  int key = 4;
-  cout << findUpperBound(vec, key);
+  int key = 90;
+  cout << findLowerBound(vec, key);
 }
