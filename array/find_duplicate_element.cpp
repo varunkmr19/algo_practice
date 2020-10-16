@@ -5,7 +5,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Navive approch {Time: O(nlogn), space: O(1)}
+// Navive solution {Time: O(nlogn), space: O(1)}
 int findDuplicateNumberNavive(vector<int> v)
 {
 	int ans;
@@ -26,6 +26,8 @@ int findDuplicateNumberNavive(vector<int> v)
 	}
 	return ans;
 }
+
+// Optimal solution
 
 int main()
 {
