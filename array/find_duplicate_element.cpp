@@ -27,7 +27,24 @@ int findDuplicateNumberNavive(vector<int> v)
 	return ans;
 }
 
-// Optimal solution
+// Optimal solution {Time: O(N), space: O(N)}
+int findDuplicate(vector<int>& nums) {
+  int len = nums.size();
+  unordered_set<int>s;
+  int set_len = 0;
+  int ans = -1;
+
+  for(auto const x : nums) {
+      s.insert(x);
+      if(set_len == s.size()) {
+          ans = x;
+          break;
+      } else {
+          set_len++;
+      }
+  }
+  return ans;
+}
 
 int main()
 {
