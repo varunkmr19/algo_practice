@@ -10,3 +10,4 @@ Array
 6. [**Find Union and Intersection**](./array/union_of_two_arrays.cpp)
 7. [**Cyclically Rotate array by one**](./array/cyclically_rotate_array.cpp)
 8. [**Largest Sum Contiguous Subarray**](./array/maximum_contiguous_sum.cpp)
+24. [**Longest Consecutive**](./array/longestConsecutive.cpp)
