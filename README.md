@@ -13,3 +13,4 @@ Array
 24. [**Longest Consecutive**](./array/longestConsecutive.cpp)
 29. [**Trapping Rain Water**](./array/trappingRainWater.cpp)
 30. [**Chocolate Distribution**](./array/chocolateDistribution.cpp)
+31. [**Minimum Size Subarray Sum**](./array/minSizeSubarraySumK.cpp)
