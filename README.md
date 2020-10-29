@@ -11,6 +11,7 @@ Array
 7. [**Cyclically Rotate array by one**](./array/cyclically_rotate_array.cpp)
 8. [**Largest Sum Contiguous Subarray**](./array/maximum_contiguous_sum.cpp)
 24. [**Longest Consecutive**](./array/longestConsecutive.cpp)
+28. [**Triplet Sum**](./array/tripletSum.cpp)
 29. [**Trapping Rain Water**](./array/trappingRainWater.cpp)
 30. [**Chocolate Distribution**](./array/chocolateDistribution.cpp)
 31. [**Minimum Size Subarray Sum**](./array/minSizeSubarraySumK.cpp)
