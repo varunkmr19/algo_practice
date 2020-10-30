@@ -15,3 +15,4 @@ Array
 29. [**Trapping Rain Water**](./array/trappingRainWater.cpp)
 30. [**Chocolate Distribution**](./array/chocolateDistribution.cpp)
 31. [**Minimum Size Subarray Sum**](./array/minSizeSubarraySumK.cpp)
+32. [**Three Way Partition**](./array/threeWayPartition.cpp)
