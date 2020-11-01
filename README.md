@@ -16,3 +16,8 @@ Array
 30. [**Chocolate Distribution**](./array/chocolateDistribution.cpp)
 31. [**Minimum Size Subarray Sum**](./array/minSizeSubarraySumK.cpp)
 32. [**Three Way Partition**](./array/threeWayPartition.cpp)
+
+String
+======
+1. [**Reverse String**](./string/reverse.cpp)
+2. [**IsPalindrome**](./string/validPalindrome.cpp)
