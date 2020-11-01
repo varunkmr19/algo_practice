@@ -21,3 +21,4 @@ String
 ======
 1. [**Reverse String**](./string/reverse.cpp)
 2. [**IsPalindrome**](./string/validPalindrome.cpp)
+3. [**Duplicate Letters**](./string/duplicateLetters.cpp)
