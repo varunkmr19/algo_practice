@@ -23,3 +23,4 @@ String
 2. [**IsPalindrome**](./string/validPalindrome.cpp)
 3. [**Duplicate Letters**](./string/duplicateLetters.cpp)
 4. [**Check one string is rotation of another**](./string/areRotation.cpp)
+5. [**Check Valid Shuffle**](./string/validShuffle.cpp)
