@@ -25,3 +25,4 @@ String
 4. [**Check one string is rotation of another**](./string/areRotation.cpp)
 5. [**Check Valid Shuffle**](./string/validShuffle.cpp)
 6. [**Longest Palindromic Substring**](./string/longestPalindrome.cpp)
+7. [**Longest Common Subsequence**](./string/lcs.cpp)
