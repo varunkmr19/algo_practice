@@ -31,3 +31,4 @@ Linked List
 ===========
 1. [**Reverse**](./linkedList/reverse.cpp)
 2. [**Reverse a Linked List in groups of given size**](./linkedList/reverseInGroup.cpp)
+3. [**Loop Detection**](./linkedList/detectLoop.cpp)
