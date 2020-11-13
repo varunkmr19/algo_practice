@@ -35,3 +35,4 @@ Linked List
 4. [**Remove Loop**](./linkedList/removeLoop.cpp)
 5. [**Find first node of the loop**](./linkedList/loopStartNode.cpp)
 6. [**Remove duplicates from sorted list**](./linkedList/removeDuplicates.cpp)
+7. [**Remove duplicates from unsorted list**](./linkedList/removeDuplicates2.cpp)
