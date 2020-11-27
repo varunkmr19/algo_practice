@@ -38,3 +38,7 @@ Linked List
 7. [**Remove duplicates from unsorted list**](./linkedList/removeDuplicates2.cpp)
 8. [**Move last node to front**](./linkedList/moveToFront.cpp)
 9. [**Add One to a Number represented by linked List**](./linkedList/addOne.cpp)
+
+Binary Trees
+============
+1. [**level Order Traversal**](./binary_trees/levelorder.cpp)
