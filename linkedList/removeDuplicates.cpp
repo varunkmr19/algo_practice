@@ -12,7 +12,7 @@ Node *removeDuplicates(Node *root) {
  while(curr != NULL) {
    if(curr->data == prev->data) {
      prev->next = curr->next;
-     curr->next = NULL;
+     curr->next = nullptr;   // in CPP, it is better to use nullpre instead of NULL ( I know it doesn't make any sense)
      curr = prev;
    }
    prev = curr;
